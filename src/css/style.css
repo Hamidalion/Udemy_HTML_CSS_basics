@@ -1,0 +1,22 @@
+
+*{
+   box-sizing: border-box;  /* правильное отображение размеров блоков с учетом марджинов и падинктов */
+   margin: 0;
+   padding: 0;
+}
+
+.conteiner{
+   width: 1140px;
+   margin: 0 auto; /* контейнер по центру */
+}
+
+.promo{
+   height: 800px;
+   background: url('../imgs/bg/topbg.png') center center / cover no-repeat;
+}
+
+.logo .logo_img{
+   display: block;
+   margin: 0 auto;
+}
+
