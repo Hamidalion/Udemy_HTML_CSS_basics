@@ -13,6 +13,7 @@
 .promo{
    height: 800px;
    background: url('../imgs/bg/topbg.png') center center / cover no-repeat;
+   padding: 39px 0px 62px;
 }
 
 .logo .logo_img{
@@ -20,3 +21,41 @@
    margin: 0 auto;
 }
 
+.logo .logo_text{
+   color: aliceblue;
+   font-family: Roboto;
+   font-style: 15px;
+   font-weight: 500;
+   line-height: 24px; /* межстрочный интервал */
+   text-transform: uppercase;
+   text-align: center;
+   margin-top: 14px;
+}
+
+h1{
+   margin-top: 51px;
+}
+
+.title{
+   font-family: "Roboto - Black";
+   font-weight: 400;
+   line-height: 24px;
+   text-align: center;
+   color: #f9bf3b;
+   font-size: 41px;
+   text-transform: uppercase;
+}
+
+.simple .title_big{
+   color: #ffffff;
+   font-family: "Roboto - Black";
+   font-size: 80px;
+   font-weight: 400;
+   text-transform: uppercase;
+   text-align: center;
+   margin-top: 21px;
+}
+
+h2.title{
+   margin-top: 30px;
+}
