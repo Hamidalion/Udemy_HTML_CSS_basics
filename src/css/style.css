@@ -12,6 +12,7 @@
 
 .promo{
    height: 800px;
+   /* background: url путь к изображдению__позиция по Х__позиция У__/__растянуть__повторение  */
    background: url('../imgs/bg/topbg.png') center center / cover no-repeat;
    padding: 39px 0px 62px;
 }
@@ -116,6 +117,10 @@ h2.title{
    margin-top: 13px;
 }
 
+.waiting{
+   background-color: #efefef;
+}
+
 .waiting .conteiner{
    height: 604px;
    background-color: #efefef;
@@ -168,3 +173,27 @@ h2.title{
    line-height: 21px;
 }
 
+.flexbox{
+   height: 500px;
+   display: flex;
+   justify-content: center;
+}
+
+.flexbox .container{
+   background-color: #fff;
+   width: 1140px;
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   align-items: center;
+}
+
+.flexbox .container .container_item1{
+   color: #380202;
+   background-color: rgb(109, 218, 109);
+   border: solid 2px #252525;
+   height: 200px;
+   width: 200px;
+   text-align: center;
+   margin: 10px 10px;
+}
