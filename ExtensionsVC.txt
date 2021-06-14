@@ -11,3 +11,5 @@ Sass - Indented Sass syntax Highlighting, Autocomplete & Formatter
 Easy Less - Auto-compile LESS to CSS on save
 Theme - Oceanic Next - Theme
 vscode-icons - Icons
+Material Icon Theme - Material Design Icons for Visual Studio Code
+Indent-rainbow - Makes indentation easier to read
