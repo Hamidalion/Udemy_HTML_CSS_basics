@@ -1,0 +1,13 @@
+Extensions for VisualCode
+
+All Autocomplete - Create autocomplete items from open files in VSCode.
+Auto Close Tag - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text
+Auto Complete Tag - Extension Packs to add close tag and rename paired tag automatically for HTML/XML
+Code Runner - Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim,
+JavaScript (ES6) code snippets - Code snippets for JavaScript in ES6 syntax
+Live Server - Launch a development local Server with live reload feature for static & dynamic pages
+Multiple clipboards for VSCode - Override the regular Copy and Cut commands to keep selections in a clipboard ring
+Sass - Indented Sass syntax Highlighting, Autocomplete & Formatter
+Easy Less - Auto-compile LESS to CSS on save
+Theme - Oceanic Next - Theme
+vscode-icons - Icons
